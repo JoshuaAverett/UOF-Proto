@@ -1,0 +1,19 @@
+Unpublished Work Copyright (C) 76 Enterprises LLC
+All Rights Reserved
+
+All information contained herein is, and remains, except where explicitly noted,
+the property of 76 Enterprises LLC and its suppliers, if any. The intellectual
+and technical concepts contained herein are proprietary to 76 Enterprises LLC
+and its suppliers and may be covered by U.S. and Foreign Patents, patents in 
+process, and are protected by trade secret or copyright law. Dissemination of
+this information or reproduction of this material is strictly forbidden unless
+prior written permission is obtained from 76 Enterprises LLC.
+
+ALL MATERIALS CONTAINTED HEREIN ARE PROVIDED "AS IS." 76 ENTERPRISES LLC MAKES NO
+REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+WARRANTIES OF QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR
+NON-INFRINGMENT. IN NO EVENT WILL 76 ENTERPRISES LLC BE LIABLE FOR ANY LOST
+PROFITS, LOST SAVINGS OR INCIDENTAL, INDIRECT, SPECIAL, PUNATIVE, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES, ARRISING OUT OF YOUR USE OR INABILITY TO USE THE MATERIALS
+HEREIN, OR THE BREACH OF THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
